@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vtx1300
 - 👀 I’m interested in  разработка проектов на языке Java
-- 🌱 I’m currently learning  я  сейчас учусь  на  курсе  overone
+- 🌱  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  1284xc@gmail.ru
 
